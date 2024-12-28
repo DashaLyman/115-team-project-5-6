@@ -1,0 +1,7 @@
+.about {
+    background-image: url(/img/logo.svg);
+    padding: 120px 0;
+}
+.about-text {
+    color: orange;
+}
